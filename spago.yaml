@@ -1,0 +1,14 @@
+package:
+  name: maybe
+  dependencies:
+    - control
+    - invariant
+    - newtype
+    - prelude
+  test:
+    dependencies: []
+    main: Test.Main
+workspace:
+  extra_packages: {}
+  package_set:
+    registry: 11.10.0
